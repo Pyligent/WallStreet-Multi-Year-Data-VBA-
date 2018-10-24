@@ -15,8 +15,8 @@ The total Volume of the stock Ticker symbol
 You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
 3.Hard
-Your solution will include everything from the moderate challenge.
-Your solution will also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
+The solution will include everything from the moderate challenge.
+The solution will also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
 4.CHALLENGE
 Make the appropriate adjustments to your script that will allow it to run on every worksheet just by running it once.
