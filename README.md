@@ -1,4 +1,4 @@
-# WallStreet-Multi-Year-Data-VBA-
+# The WallStreet Multi-Year Stock Data (VBA)
 Using VBA to analysis the stock data from 2014 to 2016
 
 
